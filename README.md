@@ -29,8 +29,10 @@ To respect privacy and avoid sensitive content, the current version uses **capyb
 ---
 ## Installation
 To view this project, visit the following link:  
-[Capybara Fan Page - Live Demo]()
+[Capybara Fan Page - Live Demo](https://canofmato.github.io/CAPYBARA/)
+
 You can find a resting capybara, a capybara in water, two framed pictures on the wall, and a desk in the center. By clicking the right wall partition, you can reveal a hidden page.
+
 ---
 
 ## Work in Progress
